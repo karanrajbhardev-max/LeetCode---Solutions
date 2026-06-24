@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
