@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0090-subsets-ii) |
+| [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0460-lfu-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
