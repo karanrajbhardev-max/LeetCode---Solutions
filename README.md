@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0090-subsets-ii) |
 | [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0496-next-greater-element-i) |
+| [0994-rotting-oranges](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
