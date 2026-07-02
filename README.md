@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0686-repeated-string-match) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
