@@ -13,26 +13,21 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        TreeNode* cur = root;
+        stack<TreeNode*> st;
+        TreeNode* node = root;
 
-        while (cur != nullptr) {
-            if (cur->left == nullptr) {
-                ans.push_back(cur->val);
-                cur = cur->right;
+        vector<int> ans;
+        while (true) {
+            if (node != nullptr) {
+                st.push(node);
+                node = node->left;
             } else {
-                TreeNode* prev = cur->left;
-                while (prev->right && prev->right != cur) {
-                    prev = prev->right;
-                }
-                if (prev->right == nullptr) {
-                    prev->right = cur;
-                    cur = cur->left;
-                } else {
-                    prev->right = nullptr;
-                    ans.push_back(cur->val);
-                    cur = cur->right;
-                }
+                if (st.empty())
+                    break;
+                node = st.top();
+                st.pop();
+                ans.push_back(node->val);
+                node = node->right;
             }
         }
 
