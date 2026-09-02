@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0090-subsets-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0053-maximum-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
