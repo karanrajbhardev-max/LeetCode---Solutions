@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0994-rotting-oranges) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0496-next-greater-element-i) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
