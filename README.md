@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0014-longest-common-prefix) |
+| [0054-spiral-matrix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/karanrajbhardev-max/LeetCode---Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
